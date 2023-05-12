@@ -1,0 +1,9 @@
+
+.table td:first-of-type {
+  padding-right: 50px;
+}
+
+.table td:nth-child(3) {
+  width: 60%;
+}
+

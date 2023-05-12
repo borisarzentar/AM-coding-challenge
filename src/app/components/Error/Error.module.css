@@ -1,0 +1,14 @@
+
+.errorContainer {
+  position: absolute;
+  right: 35px;
+  margin-top: 20px;
+}
+
+.errorNotification {
+  white-space: nowrap;
+  padding: 16px;
+  border-radius: var(--border-radius-error);
+  background-color: var(--color-error-background);
+  margin-bottom: 10px;
+}

@@ -1,0 +1,33 @@
+
+:root {
+  --color-text: white;
+  
+  --color-background: #000000;
+
+  --color-background-circle-1: linear-gradient(251.89deg, #98255F 15.71%, rgba(30, 26, 28, 0.52) 80.03%);
+  --color-background-circle-2: linear-gradient(17deg, #98255F 21.65%, rgba(30, 26, 28, 0.52) 70.64%);
+  --color-background-circle-3: linear-gradient(156.67deg, #98255F 14.94%, rgba(30, 26, 28, 0.52) 62.89%);
+
+  --color-button-text: white;
+  --color-button-border: black;
+  --color-button-background: #26262C;
+
+  --color-target-tracker-background: #2F2F2F;
+  --color-target-tracker-value: #2066D2;
+  --color-target-tracker-value-pointer: white;
+
+  --color-volume-indicator-background: #2066D2;
+
+  --color-table-background: #26262C;
+  --color-table-border: #C4C4C4;
+
+  --color-error-background: rgba(255, 138, 138, 0.5);
+
+  --border-radius-base: 5px;
+
+  --border-radius-button: var(--border-radius-base);
+
+  --border-radius-error: var(--border-radius-base);
+
+  --font-size-button: 16px;
+}

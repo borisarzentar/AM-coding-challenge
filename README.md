@@ -1,5 +1,24 @@
 # AM Coding Challenge - Frontend (React)
 
+## Running the project
+
+This project was created with [Vite](https://vitejs.dev/guide/).
+
+Please run `npm install` before trying to run the project.
+
+### Available Scripts
+
+In the project directory, you can run:
+
+### `npm run dev`
+
+Runs the app in development mode.\
+Open [http://localhost:5174/](http://localhost:5174/) to view it in your browser.
+
+### `npm test`
+
+Launches the test runner.
+
 ## The case study: Product Order Dashboard
 
 ![AM Order Dashboard Challenge](https://github.com/AM-code-treasure/coding-challenge-frontend/blob/react/Order-Dashboard-v2.png)

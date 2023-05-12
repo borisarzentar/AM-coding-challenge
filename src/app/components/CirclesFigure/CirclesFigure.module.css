@@ -1,0 +1,32 @@
+
+.circlesFigure {
+  position: absolute;
+  top: -218px;
+  right: 730px;
+  transform: rotateZ(-17deg);
+}
+
+.circle {
+  width: 795px;
+  height: 795px;
+  border-radius: 50%;
+  position: absolute;
+}
+
+.circle1 {
+  background: var(--color-background-circle-1);
+  top: 301px;
+  left: 0;
+}
+
+.circle2 {
+  background: var(--color-background-circle-2);
+  top: 0;
+  left: 343px;
+}
+
+.circle3 {
+  background: var(--color-background-circle-3);
+  top: 455px;
+  left: 440px;
+}

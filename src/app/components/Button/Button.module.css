@@ -1,0 +1,29 @@
+
+.button {
+  background-color: var(--color-button-background);
+  border-width: 1px;
+  border-color: var(--color-button-border);
+  border-radius: var(--border-radius-button);
+  min-height: fit-content;
+  min-width: fit-content;
+  white-space: nowrap;
+  margin: 0;
+  padding: 17px 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--color-button-text);
+  font-size: var(--font-size-button);
+  line-height: 1;
+}
+
+.button:hover {
+  cursor: pointer;
+  box-shadow: 0px 0px 2px 2px inset rgb(91, 91, 91);
+}
+
+.button:disabled {
+  opacity: 0.7;
+  pointer-events: none;
+  cursor: not-allowed;
+}

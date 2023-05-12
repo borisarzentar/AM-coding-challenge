@@ -1,0 +1,35 @@
+
+.pageContainer {
+  height: 100vh;
+  background: var(--color-background);
+}
+
+.contentContainer {
+  z-index: 1;
+  position: relative;
+}
+
+.infographics {
+  padding: 40px 36px 59px;
+}
+
+.volumeSum {
+  margin-top: 159px;
+  margin-bottom: 159px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+  font-style: normal;
+}
+
+.recentOrders {
+  flex: 1;
+  min-height: 280px;
+}
+
+.topProducts {
+  flex: 1.26;
+  min-height: 280px;
+}
+.topProducts > div {
+  padding-left: 23px;
+}

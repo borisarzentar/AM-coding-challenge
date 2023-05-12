@@ -1,0 +1,9 @@
+
+.volumeIndicator {
+  height: 18px;
+  background-color: var(--color-volume-indicator-background);
+}
+
+.table td:nth-child(2) {
+  width: 60%;
+}
