@@ -2,7 +2,7 @@
 
 ## Running the project
 
-This project was created with [Vite](https://vitejs.dev/guide/).
+This project was created with [NextJS](https://nextjs.org/docs).
 
 Please run `npm install` before trying to run the project.
 
@@ -13,7 +13,7 @@ In the project directory, you can run:
 ### `npm run dev`
 
 Runs the app in development mode.\
-Open [http://localhost:5174/](http://localhost:5174/) to view it in your browser.
+Open [http://localhost:3000/](http://localhost:3000/) to view it in your browser.
 
 ### `npm test`
 
